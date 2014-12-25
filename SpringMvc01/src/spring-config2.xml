@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+       <!--直接将请求和bean影射了,接收到是一个/hello.from,就去寻找名字/hello.from的bean-->
+       <bean id="handlerMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+              <property name="mappings">
+                     <props>
+                            <prop key="/hello1.from">helloController</prop>
+                            <prop key="/index1.from">indexController</prop>
+                     </props>
+              </property>
+       </bean>
+       <!--HelloController 处理/hello.from请求-->
+       <bean id="helloController" class="org.hf520.controller.HelloController"/>
+       <bean id="indexController" class="org.hf520.controller.IndexController"/>
+       <!--定义视图解析器,处理Controller返回的ModeAndView-->
+       <bean id="viewResolve" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+              <property name="prefix" value="/WEB-INF/jsp/"/>
+              <property name="suffix" value=".jsp"/>
+       </bean>
+</beans>
