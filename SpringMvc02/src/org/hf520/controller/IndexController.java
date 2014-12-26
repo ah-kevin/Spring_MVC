@@ -1,12 +1,14 @@
 package org.hf520.controller;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.validation.Valid;
 
 /**
  * Created by Administrator on 2014/12/25.
@@ -58,7 +60,13 @@ public class IndexController {
     //}
 
     @RequestMapping("/login3")
-    public String checklogin(User user,Model model){
+    public String checklogin(@Valid User user,BindingResult errors,ModelMap model){
+        //判断是否校验出错误
+        model.put("user",user);
+        if (errors.hasErrors()) {
+            //有错误,表明用户表单输入错误,返回index.jsp
+            return "index";
+        }
         System.out.println("执行login3");
         System.out.println(user.getName());
         //模拟一个异常NullException:

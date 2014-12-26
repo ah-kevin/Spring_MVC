@@ -1,86 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25ccb220-799b-4802-8824-63ef36d5ae5b" name="Default" comment="shanchu">
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\commons-logging-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-aop-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-aspects-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-beans-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-context-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-context-support-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-core-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-expression-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-instrument-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-instrument-tomcat-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-jdbc-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-jms-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-messaging-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-orm-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-oxm-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-test-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-tx-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-web-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-webmvc-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-webmvc-portlet-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\lib\spring-websocket-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\classes\org\hf520\controller\HelloController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\classes\org\hf520\controller\IndexController.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\classes\rebel.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\classes\spring-config.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\classes\spring-config2.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\jsp\hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\jsp\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\commons-logging-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-aop-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-aspects-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-beans-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-context-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-context-support-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-core-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-expression-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-instrument-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-instrument-tomcat-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-jdbc-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-jms-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-messaging-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-orm-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-oxm-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-test-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-tx-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-web-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-webmvc-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-webmvc-portlet-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\lib\spring-websocket-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc01\out\artifacts\SpringMvc01_war_exploded\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\commons-logging-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-aop-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-aspects-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-beans-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-context-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-context-support-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-core-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-expression-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-instrument-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-instrument-tomcat-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-jdbc-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-jms-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-messaging-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-orm-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-oxm-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-test-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-tx-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-web-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-webmvc-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-webmvc-portlet-4.1.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\java\Spring_MVC\SpringMvc02\lib\spring-websocket-4.1.2.RELEASE.jar" afterPath="" />
+    <list default="true" id="25ccb220-799b-4802-8824-63ef36d5ae5b" name="Default" comment="12.26 20.05优化">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/classmate-0.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/hibernate-validator-5.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/hibernate-validator-annotation-processor-5.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/hibernate-validator-cdi-5.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/javax.el-api-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/jboss-logging-3.1.1.GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lib/validation-api-1.1.0.Final.jar" />
+      <change type="DELETED" beforePath="E:\java\Spring_MVC\lib\hibernate-validator-5.1.3.Final.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SpringMvc02/org/hf520/controller/IndexController.class" afterPath="$PROJECT_DIR$/out/production/SpringMvc02/org/hf520/controller/IndexController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SpringMvc02/org/hf520/controller/User.class" afterPath="$PROJECT_DIR$/out/production/SpringMvc02/org/hf520/controller/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/hf520/controller/IndexController.java" afterPath="$PROJECT_DIR$/src/org/hf520/controller/IndexController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Spring.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Spring.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpringMvc01/SpringMvc01.iml" afterPath="$PROJECT_DIR$/../SpringMvc01/SpringMvc01.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMvc02.iml" afterPath="$PROJECT_DIR$/SpringMvc02.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/hf520/controller/User.java" afterPath="$PROJECT_DIR$/src/org/hf520/controller/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMvc02.iws" />
@@ -110,45 +45,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/IndexController.java">
+      <file leaf-file-name="spring-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6266234" vertical-offset="528" max-vertical-offset="1940">
-              <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="50" />
+            <state vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="700">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24479803" vertical-offset="0" max-vertical-offset="817">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="err.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/err.jsp">
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.034483" vertical-offset="0" max-vertical-offset="440">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.8" vertical-offset="0" max-vertical-offset="700">
-              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyExceptionHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/MyExceptionHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
-              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="2100">
+              <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,8 +91,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.8965516" vertical-offset="0" max-vertical-offset="520">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="580">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -172,8 +107,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/hello.jsp" />
-        <option value="$PROJECT_DIR$/src/org/hf520/controller/User.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/ok.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/org/hf520/interceptor/SomeInterceptor.java" />
@@ -182,9 +115,15 @@
         <option value="$PROJECT_DIR$/web/err.jsp" />
         <option value="$PROJECT_DIR$/src/spring-config.xml" />
         <option value="$PROJECT_DIR$/src/org/hf520/controller/MyExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/org/hf520/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/org/hf520/controller/User.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -289,39 +228,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMvc02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMvc02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMvc02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMvc02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -338,11 +245,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24280782" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
@@ -732,7 +639,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -748,7 +655,7 @@
       <workItem from="1419555671638" duration="1686000" />
       <workItem from="1419558527115" duration="8319000" />
       <workItem from="1419583306607" duration="4372000" />
-      <workItem from="1419594843669" duration="674000" />
+      <workItem from="1419594843669" duration="5796000" />
     </task>
     <task id="LOCAL-00001" summary="shanchu">
       <created>1419499889475</created>
@@ -762,20 +669,32 @@
       <option name="project" value="LOCAL" />
       <updated>1419586818676</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="12.26 20.05优化">
+      <created>1419595554945</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1419595554945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加jar包">
+      <created>1419595749750</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1419595749750</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26357000" />
+    <option name="totallyTimeSpent" value="31479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1419" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997773" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37668517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -784,20 +703,21 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37906423" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37668517" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291039" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2962138" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13354531" sideWeight="0.4988864" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14605543" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14605543" sideWeight="0.5009276" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13354531" sideWeight="0.49881047" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37906423" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13354531" sideWeight="0.50118953" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13354531" sideWeight="0.50118953" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -805,7 +725,43 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291039" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37906423" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291039" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2962138" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13354531" sideWeight="0.49881047" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291039" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13354531" sideWeight="0.50118953" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13354531" sideWeight="0.50118953" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -826,7 +782,9 @@
     </option>
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="shanchu" />
-    <option name="LAST_COMMIT_MESSAGE" value="shanchu" />
+    <MESSAGE value="12.26 20.05优化" />
+    <MESSAGE value="添加jar包" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加jar包" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -837,17 +795,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1940">
-          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/err.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="440">
@@ -886,7 +833,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -923,7 +870,7 @@
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -968,7 +915,7 @@
           <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1005,7 +952,7 @@
           <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1056,7 +1003,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1107,7 +1054,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1138,13 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="620">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/ok.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4779412" vertical-offset="0" max-vertical-offset="544">
@@ -1167,14 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62140393" vertical-offset="0" max-vertical-offset="869">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
@@ -1182,14 +1114,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8" vertical-offset="0" max-vertical-offset="700">
-          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1201,29 +1125,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/spring-web-4.1.2.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21541011" vertical-offset="0" max-vertical-offset="1207">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35714287" vertical-offset="0" max-vertical-offset="1232">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/spring-webmvc-4.1.2.RELEASE.jar!/org/springframework/web/servlet/tags/form/ErrorsTag.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23198012" vertical-offset="600" max-vertical-offset="2220">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#3452#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/spring-webmvc-4.1.2.RELEASE.jar!/META-INF/spring-form.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38228056" vertical-offset="41834" max-vertical-offset="48460">
+          <caret line="2115" column="69" selection-start-line="2115" selection-start-column="69" selection-end-line="2115" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/MyExceptionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
+        <state vertical-scroll-proportion="0.064935066" vertical-offset="0" max-vertical-offset="1232">
           <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_6.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.8965516" vertical-offset="0" max-vertical-offset="520">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.1591512" vertical-offset="0" max-vertical-offset="8000">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.4" vertical-offset="0" max-vertical-offset="700">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6266234" vertical-offset="528" max-vertical-offset="1940">
-          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="2100">
+          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1419595389919" expanded="true" signature="2017:2042" placeholder="..." />
+            <marker date="1419600307598" expanded="true" signature="2300:2325" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="580">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/hf520/controller/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24479803" vertical-offset="0" max-vertical-offset="817">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1295,6 +1297,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24280782" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
