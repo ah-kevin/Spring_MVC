@@ -16,4 +16,15 @@
               <property name="prefix" value="/"/>
               <property name="suffix" value=".jsp"/>
        </bean>
+       <!--异常处理器-->
+       <!--<bean class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">-->
+              <!--<property name="exceptionMappings">-->
+                     <!--<props>-->
+                            <!--<prop key="java.lang.NullPointerException">err</prop>-->
+                     <!--</props>-->
+              <!--</property>-->
+       <!--</bean>-->
+       <!--定义自定义异常处理器-->
+       <!--<bean class="org.hf520.controller.MyExceptionHandler">-->
+       <!--</bean>-->
 </beans>

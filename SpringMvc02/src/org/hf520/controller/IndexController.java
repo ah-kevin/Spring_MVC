@@ -60,6 +60,10 @@ public class IndexController {
     @RequestMapping("/login3")
     public String checklogin(User user,Model model){
         System.out.println("执行login3");
+        System.out.println(user.getName());
+        //模拟一个异常NullException:
+        String s=null;
+        s.length();
         //检查用户名和密码
         if (user.getName().equals("scott")&&user.getPs().equals("123456")){
             //正确
@@ -79,4 +83,11 @@ public class IndexController {
     //    }
     //    return "index";
     //}
+    //@ExceptionHandler
+    //public String myException(HttpServletRequest req,Exception ex){
+    //    //当indexcontroller有异常,记录异常信息,并且转到error.jsp
+    //    System.out.println("记录了异常信息:"+ex);
+    //    return "err";
+    //}
+
 }
