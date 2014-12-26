@@ -62,8 +62,8 @@ public class IndexController {
         System.out.println("执行login3");
         System.out.println(user.getName());
         //模拟一个异常NullException:
-        String s=null;
-        s.length();
+        //String s=null;
+        //s.length();
         //检查用户名和密码
         if (user.getName().equals("scott")&&user.getPs().equals("123456")){
             //正确
