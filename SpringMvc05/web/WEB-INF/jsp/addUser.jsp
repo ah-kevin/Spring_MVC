@@ -13,9 +13,14 @@
 </head>
 <body>
 <form:form commandName="user" action="add.from" method="post">
-  <form:errors path="*" cssStyle="color:red"/><hr>
-  用户名:<input type="text" name="username" ><br>
-  密码:<input type="password" name="password"><br>
+  用户名:
+  <form:input path="username"/>
+  <form:errors path="username" cssStyle="color:red"/><br>
+  密码:<form:password path="password" showPassword="true"/>
+  <form:errors path="password" cssStyle="color:red"/><br>
+  电话号码:
+  <form:input path="telephone"/>
+  <form:errors path="telephone" cssStyle="color:red"/><br>
   <input type="submit" value="注册"/>
 </form:form>
 

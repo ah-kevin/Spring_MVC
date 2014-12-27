@@ -11,28 +11,6 @@
         </webroots>
       </configuration>
     </facet>
-    <facet type="web" name="Web2">
-      <configuration>
-        <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
-        </descriptors>
-        <webroots>
-          <root url="file://$MODULE_DIR$/web" relative="/" />
-        </webroots>
-      </configuration>
-    </facet>
-    <facet type="Spring" name="Spring">
-      <configuration>
-        <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/out/artifacts/SpringMvc01_war_exploded/WEB-INF/classes/spring-config.xml</file>
-          <file>file://$MODULE_DIR$/out/artifacts/SpringMvc01_war_exploded/WEB-INF/classes/spring-config2.xml</file>
-          <file>file://$MODULE_DIR$/out/production/SpringMvc01/spring-config.xml</file>
-          <file>file://$MODULE_DIR$/out/production/SpringMvc01/spring-config2.xml</file>
-          <file>file://$MODULE_DIR$/src/spring-config.xml</file>
-          <file>file://$MODULE_DIR$/src/spring-config2.xml</file>
-        </fileset>
-      </configuration>
-    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />

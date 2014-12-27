@@ -16,7 +16,8 @@ import javax.validation.Valid;
 public class UserController {
     //进入addUser.jsp
     @RequestMapping("/toAdd")
-    public String toAddUser(){
+    public String toAddUser(Model model){
+        model.addAttribute("user",new User());
         return "addUser";
     }
 
