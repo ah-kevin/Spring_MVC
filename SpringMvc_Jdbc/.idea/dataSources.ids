@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - sq_kbjwdh@114.80.153.70" uuid="ce09d1c9-985e-4598-a164-d7aee74ef13d">
+    <database-info product="MySQL" version="5.5.38" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.34 ( Revision: jess.balint@oracle.com-20141014163213-wqbwpf1ok2kvo1om )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="sq_kbjwdh"/>
+    <table name="emp" schema="" catalog="sq_kbjwdh" type="TABLE">
+      <column name="empno" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="ename" sqlType="VARCHAR" precision="10" scale="0" nullable="true" jdbcType="12"/>
+      <column name="job" sqlType="VARCHAR" precision="9" scale="0" nullable="true" jdbcType="12"/>
+      <column name="mgr" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="hiredate" sqlType="DATE" precision="10" scale="0" nullable="true" jdbcType="91"/>
+      <column name="sal" sqlType="DOUBLE" precision="7" scale="2" nullable="true" jdbcType="8"/>
+      <column name="comm" sqlType="DOUBLE" precision="7" scale="2" nullable="true" jdbcType="8"/>
+      <column name="deptno" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+    </table>
+  </data-source>
+</component>
