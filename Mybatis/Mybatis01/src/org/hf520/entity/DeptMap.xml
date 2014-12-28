@@ -6,5 +6,13 @@
     <insert id="addDept" parameterType="org.hf520.entity.Dept">
     insert into DEPT (DEPTNO,DNAME,LOC) values (#{deptno},#{dname},#{loc})
 </insert>
-
+    <update id="updateDept" parameterType="org.hf520.entity.Dept">
+    UPDATE dept SET dname=#{dname},loc=#{loc} where DEPTNO=#{deptno}
+</update>
+    <delete id="deleteDept" parameterType="int">
+        DELETE FROM  dept WHERE  deptno=#{no}
+    </delete>
+    <select id="findById" parameterType="int" resultType="org.hf520.entity.Dept">
+        SELECT deptno,dname,loc FROM dept WHERE deptno=#{no};
+    </select>
 </mapper>

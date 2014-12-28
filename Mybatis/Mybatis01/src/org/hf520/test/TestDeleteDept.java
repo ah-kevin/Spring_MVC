@@ -1,23 +1,19 @@
 package org.hf520.test;
 
 import org.apache.ibatis.session.SqlSession;
-import org.hf520.entity.Dept;
 
 /**
  * Created by kevin on 2014/12/28.
  */
-public class TestAddDept {
+public class TestDeleteDept {
     public static void main(String[] args) {
         SqlSession sqlSession=null;
         try {
             //sqlSession =SqlSessionUtil.getSession();
             sqlSession=mysqlSessionUtil.getSession();
-            Dept dept=new Dept();
-            dept.setDeptno(30);
-            dept.setDname("中部");
-            dept.setLoc("石台");
+
             //使用
-            sqlSession.insert("addDept", dept);
+            sqlSession.delete("deleteDept",60);
             sqlSession.commit();//事物提交
         } catch (Exception ex) {
             ex.printStackTrace();
@@ -26,3 +22,5 @@ public class TestAddDept {
         }
     }
 }
+
+
